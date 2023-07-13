@@ -1,0 +1,33 @@
+/* styles.css */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+}
+
+th {
+    background-color: blueviolet;
+}
+
+header {
+    color: blueviolet;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: center;
+}
+
+tbody{
+    text-align: center;
+}

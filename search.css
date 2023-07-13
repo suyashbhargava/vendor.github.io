@@ -1,0 +1,33 @@
+body{
+    background: white;
+}
+
+.card-body{
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    width: fit-content;
+}
+
+.card{
+    background-color: rgb(60, 60, 60);
+    width: fit-content;
+}
+
+.card-title{
+    color: white;    
+}
+
+.container{
+    margin-right: 100%;
+}
+
+thead {
+    background-color: rgb(60, 60, 60);
+    color: white;
+    text-align: center;
+    
+}
+
+tbody{
+    background-color: darkcyan;
+}
+  
